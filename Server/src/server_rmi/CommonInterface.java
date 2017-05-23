@@ -86,7 +86,7 @@ public interface CommonInterface extends Remote {
             }
 
             int finish = (int) (Instant.now().getEpochSecond() - start);
-            System.out.println("Algorithm worked " + finish + " seconds");
+            System.out.println("Algorithm work " + finish + " seconds");
 
             return sortedMas;
         }
