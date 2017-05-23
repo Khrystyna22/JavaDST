@@ -1,1 +1,0 @@
-# 1. Start project in your IDE and run it
